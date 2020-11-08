@@ -52,4 +52,5 @@ The prod version needs separate proxy!
 ## Excluded from the repo:
 * challenge-back/src/serviceAccountKey
 * challenge-front/src/Fire.ts
+
 Please copy them from the email to src/ or dist/ folder!
