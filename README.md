@@ -20,7 +20,6 @@ The frontend uses the `dev-proxy` in package.json to reach the backend.
 2. frontend: "librarify" business & fetch -logic
 3. mentioned in comments
 
-
 ## Setup:dev
 ```bash
   cd challenge-front
